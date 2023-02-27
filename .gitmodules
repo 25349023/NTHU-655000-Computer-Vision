@@ -1,0 +1,9 @@
+[submodule "HW1-Harris-SIFT"]
+	path = HW1-Harris-SIFT
+	url = https://github.com/25349023/harris-corner-sift-matching.git
+[submodule "HW2-EightPoint-Homography"]
+	path = HW2-EightPoint-Homography
+	url = https://github.com/25349023/eight-point-algorithm-homography-estimation.git
+[submodule "HW3-RANSAC-Segmentation"]
+	path = HW3-RANSAC-Segmentation
+	url = https://github.com/25349023/ransac-image-alignment-segmentation.git
