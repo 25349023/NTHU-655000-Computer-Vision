@@ -7,3 +7,6 @@
 [submodule "HW3-RANSAC-Segmentation"]
 	path = HW3-RANSAC-Segmentation
 	url = https://github.com/25349023/ransac-image-alignment-segmentation.git
+[submodule "Final-CAFR"]
+	path = Final-CAFR
+	url = https://github.com/25349023/CrossAge-FaceRecognition.git
